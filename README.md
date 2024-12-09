@@ -2,11 +2,11 @@ This document outlines the key questions addressed in the analysis of an insuran
 
 1. Identify Categorical and Continuous Variables
 Determine the variables in the dataset that are categorical (e.g., gender, region) and continuous (e.g., age, BMI, charges).
-This classification sets the foundation for further analysis. <break>
+This classification sets the foundation for further analysis. <br>
 2. Visualize Continuous Variables and Analyze Correlations
 Create histograms to observe the distribution of continuous variables like age, BMI, and charges.
 Use box plots to detect outliers and variability in these variables.
-Perform a correlation analysis to identify relationships between continuous variables. <break>
+Perform a correlation analysis to identify relationships between continuous variables. <br>
 3.1 Male/Female Ratio and Gender-wise Smoking Habits
 Analyze the male-to-female ratio in the dataset.
 Identify which gender has a higher percentage of smokers. <break>
