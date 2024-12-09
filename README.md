@@ -7,6 +7,7 @@ This classification sets the foundation for further analysis. <br>
 Create histograms to observe the distribution of continuous variables like age, BMI, and charges.
 Use box plots to detect outliers and variability in these variables.
 Perform a correlation analysis to identify relationships between continuous variables. <br>
+<hr>
 3.1 Male/Female Ratio and Gender-wise Smoking Habits
 Analyze the male-to-female ratio in the dataset.
 Identify which gender has a higher percentage of smokers. <br>
