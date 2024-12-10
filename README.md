@@ -1,34 +1,45 @@
-This document outlines the key questions addressed in the analysis of an insurance company's claim data. The aim is to identify patterns and relationships between variables to provide actionable business insights.
+# Insurance Claim Data Analysis
 
-1. Identify Categorical and Continuous Variables
-Determine the variables in the dataset that are categorical (e.g., gender, region) and continuous (e.g., age, BMI, charges).
-This classification sets the foundation for further analysis. <br>
-2. Visualize Continuous Variables and Analyze Correlations
-Create histograms to observe the distribution of continuous variables like age, BMI, and charges.
-Use box plots to detect outliers and variability in these variables.
-Perform a correlation analysis to identify relationships between continuous variables. <br>
-<hr>
-3.1 Male/Female Ratio and Gender-wise Smoking Habits
-Analyze the male-to-female ratio in the dataset.
-Identify which gender has a higher percentage of smokers. <br>
-3.2 Charges vs Age
-Investigate the relationship between a customer’s age and their insurance charges.
-Visualize trends using charts such as scatter plots or line graphs. <br>
-3.3 Charges vs BMI
-Examine whether there is a connection between a customer’s BMI and their insurance charges.
-Highlight any significant trends or thresholds. <br>
-3.4 Charges for Smokers vs Non-smokers
-Compare the charges claimed by smokers and non-smokers.
-Analyze the extent to which smoking influences insurance costs. <br>
-3.5 Region-wise Smokers vs Non-smokers Analysis
-Conduct a regional analysis to identify the distribution of smokers and non-smokers across different regions.
-Use pivot tables and visualizations to present the findings. <br>
-3.6 Region-wise Charges for Smokers vs Non-smokers
-Analyze how charges differ for smokers and non-smokers across regions.
-Provide insights into regional trends in insurance claims. <br>
-3.7 Charges vs Number of Dependents
-Investigate the impact of the number of dependents on insurance charges.
-Explore whether families with more dependents claim higher charges. <br>
-3.8 Dependents-Charges Analysis (Region-wise)
-Perform a region-wise analysis of the relationship between the number of dependents and insurance charges.
-Highlight regional variations in the influence of dependents on charges.
+This project analyzes an insurance company's claim data to uncover patterns and relationships between variables, providing actionable business insights. The analysis includes classification of variables, data visualization, and detailed investigations of key factors influencing insurance charges.
+
+## **Table of Contents**
+
+1. [Overview](#overview)
+2. [Key Questions Addressed](#key-questions-addressed)
+3. [Analysis Steps](#analysis-steps)
+4. [Technologies Used](#technologies-used)
+5. [How to Use](#how-to-use)
+6. [Results and Insights](#results-and-insights)
+
+## **Overview**
+
+The project aims to analyze claim data from an insurance company by:
+- Identifying relationships between variables such as age, BMI, smoking habits, and insurance charges.
+- Performing regional and demographic analysis to uncover trends.
+- Visualizing data to enhance understanding and decision-making.
+
+## **Key Questions Addressed**
+
+1. **Categorical and Continuous Variables**:
+   - Which variables are categorical (e.g., gender, region)?
+   - Which variables are continuous (e.g., age, BMI, charges)?
+
+2. **Variable Distributions and Correlations**:
+   - How are continuous variables distributed (age, BMI, charges)?
+   - What correlations exist between these variables?
+
+3. **Demographic and Regional Analysis**:
+   - **Gender-based Analysis**:
+     - What is the male-to-female ratio? Which gender has more smokers?
+   - **Charges vs Age**:
+     - What is the relationship between age and insurance charges?
+   - **Charges vs BMI**:
+     - Is there a connection between BMI and insurance charges?
+   - **Charges for Smokers vs Non-Smokers**:
+     - How do smoking habits influence insurance charges?
+   - **Region-Wise Analysis**:
+     - How are smokers and non-smokers distributed across regions?
+     - How do charges vary for smokers and non-smokers by region?
+   - **Dependents Analysis**:
+     - What is the impact of the number of dependents on insurance charges?
+     - How does this relationship vary across regions?
