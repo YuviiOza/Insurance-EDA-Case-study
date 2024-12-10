@@ -2,15 +2,6 @@
 
 This project analyzes an insurance company's claim data to uncover patterns and relationships between variables, providing actionable business insights. The analysis includes classification of variables, data visualization, and detailed investigations of key factors influencing insurance charges.
 
-## **Table of Contents**
-
-1. [Overview](#overview)
-2. [Key Questions Addressed](#key-questions-addressed)
-3. [Analysis Steps](#analysis-steps)
-4. [Technologies Used](#technologies-used)
-5. [How to Use](#how-to-use)
-6. [Results and Insights](#results-and-insights)
-
 ## **Overview**
 
 The project aims to analyze claim data from an insurance company by:
